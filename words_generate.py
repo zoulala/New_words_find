@@ -7,7 +7,7 @@
 time    :2017-7-6
 author  : zlw
 
-other ： 在pyhton3中encode,在转码的同时还会把string 变成bytes类型，decode在解码的同时还会把bytes变回string
+others ： 在pyhton3中encode,在转码的同时还会把string 变成bytes类型，decode在解码的同时还会把bytes变回string
 """
 
 from __future__ import division
@@ -15,8 +15,6 @@ import time
 
 import re
 from math import log
-# from chatbot import load_data
-
 
 
 # hanzi_re = re.compile(u"[\u4E00-\u9FD5]+", re.U)
